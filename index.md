@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Waiz's Website</title>
 		<meta charset = "UTF-8">
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
