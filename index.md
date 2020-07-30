@@ -1,6 +1,26 @@
+<!DOCTYPE html>
 <html>
-	<body style="background-color:lightgray;">
-		<h1 align="center" style="font-size:50px;"><hr/><hr/>Hello World!<hr/><hr/></h1>
-		<p style="color:red;" title="test"><mark>yes</mark></p>
+	<head>
+		<title>Waiz's Website</title>
+		<meta charset = "UTF-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		<hr/><hr/>
+		<h1>Syukri noob</h1>
+		<hr/><hr/>
+		
+		<div class="row">
+			<div class="column" style="background-color: gray;">
+				<h2>This is Waiz</h2>
+			</div>
+			<div class="column" style="background-color: lightgray;">
+				<h2>This is Wafiq</h2>
+				<p align="center"> Hello, good morning everyone, <br>good afternoon bla bla haha yay</p>
+			</div>
+			<div class="column" style="background-color:lime;">
+				<h2 title="test">Test</h2>
+			</div>
+		</div>
 	</body>
 </html>
