@@ -4,7 +4,7 @@ body,html {
 }
 
 .bgimg {
-	background-image: url('/home/ubuntu/Documents/web/imgs/background.jpg');
+	background-image: url('/imgs/background.jpg');
 	height: 100%;
 	background-position: center;
 	background-size: cover;
